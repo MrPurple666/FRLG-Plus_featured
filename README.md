@@ -9,7 +9,6 @@ This is the repository for the Pokémon FireRed and LeafGreen+ hack, based on [p
 * Support Development
   * [I have a Ko-fi link](https://ko-fi.com/deokishisu), tips are appreciated!
 
-## See also
 
 Other pret disassembly and/or decompilation projects:
 * [**Pokémon Red and Blue**](https://github.com/pret/pokered)
@@ -25,7 +24,6 @@ Other pret disassembly and/or decompilation projects:
 * [**Pokémon Pinball: Ruby & Sapphire**](https://github.com/pret/pokepinballrs)
 * [**Pokémon Emerald**](https://github.com/pret/pokeemerald)
 * [**Pokémon Mystery Dungeon: Red Rescue Team**](https://github.com/pret/pmd-red)
-
 
 ## Discord server for pret
 
