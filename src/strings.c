@@ -129,7 +129,6 @@ const u8 gText_SelectorArrow2[] = _("▶");
 const u8 gUnknown_841623D[] = _("YES\nNO");
 const u8 gText_GoBackToThePreviousMenu[] = _("Go back to the\nprevious menu.");
 const u8 gText_WhatWouldYouLikeToDo[] = _("What would you like to do?");
-
 const u8 gText_ResetRTCConfirmCancel[] = _("Reset RTC?\nA: Confirm, B: Cancel");
 const u8 gText_PresentTime[] = _("Present time in game");
 const u8 gText_PreviousTime[] = _("Previous time in game");
@@ -139,7 +138,7 @@ const u8 gText_SaveCompleted[] = _("Save completed.");
 const u8 gText_SaveFailed[] = _("Save failed…");
 const u8 gText_NoSaveFileCantSetTime[] = _("There is no save file, so the time\ncan't be set.");
 const u8 gText_InGameClockUsable[] = _("The in-game clock adjustment system\nis now useable.");
-
+const u8 gStartMenu_TimeBoxClock[] = _("{STR_VAR_1}:{STR_VAR_2}");
 const u8 gStartMenuText_Pokedex[] = _("POKéDEX");
 const u8 gStartMenuText_Bag[] = _("BAG");
 const u8 gStartMenuText_Player[] = _("{PLAYER}");
