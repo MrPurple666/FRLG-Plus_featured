@@ -2421,7 +2421,7 @@ const u16 gEvolutionLines[NUM_SPECIES][EVOS_PER_LINE] =
     [SPECIES_CHIMECHO]                          = {SPECIES_CHIMECHO},
 };
 
-static const s8 sNatureStatTable[][5] =
+const s8 sNatureStatTable[][5] =
 {
     // Atk Def Spd Sp.Atk Sp.Def
     {    0,  0,  0,     0,     0}, // Hardy
