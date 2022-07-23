@@ -2677,8 +2677,8 @@ static void PrintInfoPage(void)
 static const u8 sNatureTextColors[][3] =
 {
     {0, 14, 10},
-    {0, 2, 1},
-    {0, 6, 7},
+    {0, 1, 10}, //Change to 0, 2, 1 for an alternative
+    {0, 7, 10}, //Change to 0, 6, 7 for an alternative 
 };
 
 extern const s8 sNatureStatTable[][5];
